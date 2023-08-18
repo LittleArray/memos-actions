@@ -1,4 +1,4 @@
-name: Memos Build
+name: Memos Build 0.14.4
 
 on:
   push:
